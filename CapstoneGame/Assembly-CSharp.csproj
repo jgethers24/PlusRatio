@@ -85,9 +85,13 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Item_Potion.cs" />
     <Compile Include="Assets\Scripts\Battle Folder\TeleportPlayer.cs" />
+    <Compile Include="Assets\QuickOutline\Scripts\Outline.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Tom&apos;s Terrain Tools\Example Data\Terragen Sources\README.txt" />
+    <None Include="Assets\QuickOutline\Resources\Shaders\OutlineMask.shader" />
+    <None Include="Assets\QuickOutline\Readme.txt" />
+    <None Include="Assets\QuickOutline\Resources\Shaders\OutlineFill.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
