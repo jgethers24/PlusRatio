@@ -1,0 +1,19 @@
+{
+	"Talkers": [
+		{
+			"TalkerId":1,
+			"TalkerName":"Dummy-Kai",
+			"TalkerText":"give me your best shot blockhead."
+		},
+		{
+			"TalkerId":2,
+			"TalkerName":"Frank",
+			"TalkerText":"Legends tell of a game developer who will come to save our land. Is that you?"
+		},
+		{
+			"TalkerId":3,
+			"TalkerName":"Fabian",
+			"TalkerText":"Bah! A Red Pawn. Like anyone could trust the likes of you!"
+		}
+	]
+}

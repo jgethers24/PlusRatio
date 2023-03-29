@@ -32,7 +32,7 @@ public class YokaiBase : ScriptableObject
     {
         get { return name; }
     }
-    public string MaxHp
+    public int MaxHp
     {
         get { return MaxHp;  }
     }

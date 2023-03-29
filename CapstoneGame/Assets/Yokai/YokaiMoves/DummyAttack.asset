@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: DummyAttack
   m_EditorClassIdentifier: 
   name: 
-  description: Dummy spins
-  power: 0
+  description: Dummy spin
+  power: 10

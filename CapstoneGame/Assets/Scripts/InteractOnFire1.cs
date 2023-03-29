@@ -19,7 +19,7 @@ public class InteractOnFire1 : MonoBehaviour {
     InteractionState CurrentInteractionState;
     int CurrentTalkerId;
 
-    public TalkerDatabase MyTalkerDatabase;
+    public DialogueDatabase MyTalkerDatabase;
 
 	// Use this for initialization
 	void Start () {

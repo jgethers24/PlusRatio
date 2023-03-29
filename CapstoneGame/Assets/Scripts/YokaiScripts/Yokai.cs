@@ -12,6 +12,7 @@ public class Yokai
     public Yokai(YokaiBase pBase)
     {
         _base = pBase;
+        
         HP = _base.MaxHp;
 
         Moves = new List<Move>();
@@ -20,7 +21,11 @@ public class Yokai
             Moves.Add(new Move(move.Base));
         }
     }
-    /*public int Attack
+    /*public int MaxHp
+    {
+        get { return _base.MaxHp}:
+    }
+    public int Attack
     {
         get { return Mathf.FloorToInt((_base.Attack * level) / 100f) + 5; }
     }*/

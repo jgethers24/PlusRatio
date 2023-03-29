@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0448a0ce6f57174db9b9582d198fe71, type: 3}
   m_Name: Dummy
   m_EditorClassIdentifier: 
-  name: 
+  name: Dummy
   Object: {fileID: 0}
   object: {fileID: 4234999636753509637, guid: f2c69634239ae2a4eb4cd5e5d45ba078, type: 3}
   GameObject: {fileID: 5970639364885817220, guid: fdf740bd199d20844b25320101425642,
@@ -25,3 +25,4 @@ MonoBehaviour:
   speed: 12
   moveSets:
   - moveBase: {fileID: 11400000, guid: ba0b24046450b3245825f679de46673c, type: 2}
+  - moveBase: {fileID: 11400000, guid: 12136c72cee7a8d41a2a7ecae0258983, type: 2}
